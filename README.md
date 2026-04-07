@@ -1,4 +1,4 @@
-# CashFlow Engine
+# InsightFlow Engine
 ### Semi-autonomous financial decision system for small businesses
 
 Transforms fragmented financial data into clear, actionable cash flow decisions.
